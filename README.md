@@ -58,14 +58,3 @@ React 애플리케이션을 개발하며 실제로 겪었던 구조적인 문제
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
----
-
-## 🔍 현재 진행 중
-
-- **기술서 집필: _어느 순간 무너지는 리액트 프로젝트_**  
-  React 애플리케이션의 구조적 문제를 분석하고 개선 경험을 정리한 기술서  
-  (2026.03.06 리디북스 출판 예정)
-
-- Game Guide Platform 개발 중
-
