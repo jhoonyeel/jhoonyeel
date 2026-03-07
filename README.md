@@ -5,13 +5,13 @@ React 애플리케이션에서 발생하는 **상태 관리, 데이터 흐름, U
 
 ## 📖 기술서 집필
 
-### 어느 순간 무너지는 리액트 프로젝트 - 리디북스 출판 예정 (3/6)
+### [어느 순간 무너지는 리액트 프로젝트 - 리디북스 전자책](https://bit.ly/react-project-book)
 
 **공동 저자 (2인) | 기간: 2025.12 ~ 2026.03**
 
 React 애플리케이션을 개발하며 실제로 겪었던 구조적인 문제를 바탕으로 상태 관리, 데이터 흐름, 책임 분리 관점에서 **왜 구조가 무너지는지와 이를 어떻게 개선할 수 있는지**를 정리한 기술서입니다.
 
-총 4개의 챕터로 구성되어 있으며, 이 중 **Chapter 1과 2 집필을 담당했습니다.**
+총 4개 챕터로 구성되어 있으며, 이 중 **Chapter 1과 Chapter 2 집필을 담당했습니다.**
 
 **담당 챕터**
 
@@ -21,7 +21,7 @@ React 애플리케이션을 개발하며 실제로 겪었던 구조적인 문제
 - **Chapter 2. 더러워진 폼 청소하기 - 책임이 얽히기 시작할 때**  
   폼 책임 분리와 파생 상태 관리
 
-[📎 실습 코드 Repository](https://github.com/wooddangtangtang/react-projects-break-at-some-point)
+[📎 책 실습 코드 Repository](https://github.com/wooddangtangtang/react-projects-break-at-some-point)
 
 ---
 
