@@ -16,12 +16,10 @@ React 애플리케이션을 개발하며 실제로 겪었던 구조적인 문제
 **담당 챕터**
 
 - **Chapter 1. 서버 상태가 두 곳에 존재하기 시작했을 때**  
-  서버 상태와 클라이언트 상태의 경계, 로컬 미러와 stale snapshot 문제
-  [온라인 출간본으로 보기](https://twisty-calcium-edd.notion.site/Chapter-1-307df84d989e808eb16ce5ee8fc56244)
+  서버 상태와 클라이언트 상태의 경계, 로컬 미러와 stale snapshot 문제 [(온라인 출간본으로 보기)](https://twisty-calcium-edd.notion.site/Chapter-1-307df84d989e808eb16ce5ee8fc56244)
 
 - **Chapter 2. 더러워진 폼 청소하기 - 책임이 얽히기 시작할 때**  
-  폼 책임 분리와 파생 상태 관리
-  [온라인 출간본으로 보기](https://twisty-calcium-edd.notion.site/Chapter-2-307df84d989e800b888cfc774e5b5a57)
+  폼 책임 분리와 파생 상태 관리 [(온라인 출간본으로 보기)](https://twisty-calcium-edd.notion.site/Chapter-2-307df84d989e800b888cfc774e5b5a57)
 
 [📎 책 실습 코드 Repository](https://github.com/wooddangtangtang/react-projects-break-at-some-point)
 
